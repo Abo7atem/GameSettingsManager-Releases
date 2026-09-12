@@ -4,9 +4,9 @@ Public release metadata and installer distribution endpoint for Game Settings Ma
 
 ## Latest release
 
-- Version: `1.0.60.0`
-- Installer: `releases/1.0.60.0/4tikoOptimizerSetup.exe`
+- Version: `1.0.61.0`
+- Installer: `releases/1.0.61.0/4tikoOptimizerSetup.exe`
 - Status: **Unsigned QA build** — Windows may display an unknown-publisher warning.
-- SHA-256: `208FEEEFB15765C5641387DFCCBEA6A9B021CFEE4A422386642FC18C8158ED7E`
+- SHA-256: `196614C270F06AD8B24F79D24F745995738D7E01CFBE453E1D4AC227640B3B4C`
 
 The installer is self-contained for Windows x64. Verify the SHA-256 hash before distribution.
